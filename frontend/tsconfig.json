@@ -1,0 +1,28 @@
+{
+    /* https://www.typescriptlang.org/tsconfig */
+    "compilerOptions": {
+        /* Basic Options */
+        "module": "commonjs",
+        "target": "es2018",
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react",
+
+        /* Strict Type-Checking Options */
+        "strict": true,
+
+        /* Additional Checks */
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noPropertyAccessFromIndexSignature": true,
+
+        /* Advanced Options */
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "noFallthroughCasesInSwitch": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true
+    },
+    "exclude": ["node_modules"]
+}

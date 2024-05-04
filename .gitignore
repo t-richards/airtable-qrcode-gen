@@ -1,0 +1,7 @@
+/.airtableblocksrc.json
+/.block
+/.tmp
+/.vscode
+/build
+/dist
+/node_modules
