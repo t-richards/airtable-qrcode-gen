@@ -2,7 +2,7 @@
 
 An Airtable extension. Generates QR codes which link directly to the corresponding records, and presents additional selected data in a format suitable for label printing (one record per page).
 
-https://user-images.githubusercontent.com/3905798/140627007-d4d4e69e-d317-4ff4-a4c3-3c35bb6446d2.mp4
+![image](https://github.com/t-richards/airtable-qrcode-gen/assets/3905798/54d6ab8d-3ba7-4b89-a9f5-caa5cc2507a5)
 
 ## Getting started
 
