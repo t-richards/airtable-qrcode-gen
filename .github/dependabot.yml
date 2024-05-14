@@ -15,7 +15,7 @@ updates:
     schedule:
       interval: weekly
     groups:
-      actions:
+      npm:
         update-types:
           - minor
           - patch
