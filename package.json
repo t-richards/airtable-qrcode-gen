@@ -7,8 +7,8 @@
     },
     "devDependencies": {
         "@airtable/blocks-cli": "^2.0",
-        "@typescript-eslint/eslint-plugin": "^7.9",
-        "@typescript-eslint/parser": "^7.9",
+        "@typescript-eslint/eslint-plugin": "^7.11",
+        "@typescript-eslint/parser": "^7.11",
         "eslint": "^8.56",
         "eslint-plugin-react": "^7.34",
         "eslint-plugin-react-hooks": "^4.6",
