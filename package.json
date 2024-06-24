@@ -7,12 +7,12 @@
     },
     "devDependencies": {
         "@airtable/blocks-cli": "^2.0",
-        "@typescript-eslint/eslint-plugin": "^7.13",
-        "@typescript-eslint/parser": "^7.13",
+        "@typescript-eslint/eslint-plugin": "^7.14",
+        "@typescript-eslint/parser": "^7.14",
         "eslint": "^8.56",
         "eslint-plugin-react": "^7.34",
         "eslint-plugin-react-hooks": "^4.6",
-        "typescript": "^5.4"
+        "typescript": "^5.5"
     },
     "scripts": {
         "build": "esbuild frontend/index.tsx --bundle --minify --outfile=dist/index.js",
