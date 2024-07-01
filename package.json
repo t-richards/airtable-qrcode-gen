@@ -1,14 +1,14 @@
 {
     "dependencies": {
         "@airtable/blocks": "^1.18",
-        "esbuild": "^0.21",
+        "esbuild": "^0.22",
         "react": "^17.0",
         "react-dom": "^17.0"
     },
     "devDependencies": {
         "@airtable/blocks-cli": "^2.0",
-        "@typescript-eslint/eslint-plugin": "^7.14",
-        "@typescript-eslint/parser": "^7.14",
+        "@typescript-eslint/eslint-plugin": "^7.15",
+        "@typescript-eslint/parser": "^7.15",
         "eslint": "^8.56",
         "eslint-plugin-react": "^7.34",
         "eslint-plugin-react-hooks": "^4.6",
